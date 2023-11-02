@@ -15,7 +15,7 @@ public class DBConnect {
 
      
     public static Connection ketNoi() {
-
+sjndckdbc
         // Create a variable for the connection string.
         String connectionUrl = "jdbc:sqlserver://" + HOSTNAME + ":" + PORT + ";"
                 + "databaseName=" + DBNAME+";encrypt=true;trustServerCertificate=true;";
